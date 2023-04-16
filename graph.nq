@@ -4,3 +4,6 @@
 <https://spinque.com/data/tpogacar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
 <https://spinque.com/data/tpogacar> <https://schema.org/givenName> "tadej" .
 <https://spinque.com/data/tpogacar> <https://schema.org/familyName> "Pogacar" .
+<https://spinque.com/data/mvdp> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://spinque.com/data/mvdp> <https://schema.org/givenName> "mathieu" .
+<https://spinque.com/data/mvdp> <https://schema.org/familyName> "van der poel" .
