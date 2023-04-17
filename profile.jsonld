@@ -4,7 +4,7 @@
         "rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
         "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
         "sdo": "https://schema.org/docs/jsonldcontext.json",
-        "custom": "https://raw.githubusercontent.com/oli4jansen/movies/main/schemas/my_own_schema.nq",
+        "my_own_schema": "https://my.own.schema/",
         "rdfs:Class": {
             "@id": "rdfs:Class",
             "@context": {
