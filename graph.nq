@@ -6,3 +6,5 @@
 <https://spinque.com/data/mvdp> <https://schema.org/familyName> "van der poel" .
 <https://spinque.com/data/wvaert> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
 <https://spinque.com/data/wvaert> <https://schema.org/familyName> "Van Aert" .
+<https://spinque.com/data/nquintana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
+<https://spinque.com/data/nquintana> <https://schema.org/familyName> "Quintana" .
