@@ -47,7 +47,7 @@
             }
         },
         "sdo:Person": {
-            "@id": "raad:Indieners",
+            "@id": "sdo:Person",
             "@context": {
                 "sdo:givenName": {
                     "@id": "sdo:givenName",
