@@ -47,7 +47,7 @@
                 }
             }
         },
-        "sdo:Person": {
+        "Person": {
             "@id": "sdo:Person",
             "@context": {
                 "sdo:givenName": {
@@ -59,6 +59,18 @@
                     "@type": "@id"
                 }
             }
+        },
+        "sdo:Movie": {
+            "@id": "https://schema.org/Movie",
+            "@context": {
+                "title": {
+                    "@id": "sdo:title",
+                    "@type": "@id"
+                }
+            }
+        },
+        "name": {
+            "@id": "https://schema.org/name"
         }
     }
 }
