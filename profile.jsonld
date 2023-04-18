@@ -69,6 +69,7 @@
                 }
             }
         },
+        "title": "sdo:title",
         "name": {
             "@id": "https://schema.org/name"
         }
