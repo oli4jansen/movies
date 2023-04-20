@@ -72,18 +72,6 @@
     "title": "https://schema.org/title",
     "name": {
       "@id": "https://schema.org/name"
-    },
-    "Article": {
-      "@id": "https://schema.org/Article"
-    },
-    "AboutPage": {
-      "@id": "https://schema.org/AboutPage"
-    },
-    "AcceptAction": {
-      "@id": "https://schema.org/AcceptAction"
-    },
-    "AggregateOffer": {
-      "@id": "https://schema.org/AggregateOffer"
     }
   }
 }
