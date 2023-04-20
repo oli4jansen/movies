@@ -72,21 +72,6 @@
     "title": "https://schema.org/title",
     "name": {
       "@id": "https://schema.org/name"
-    },
-    "Book": {
-      "@id": "https://schema.org/Book"
-    },
-    "InternetCafe": {
-      "@id": "https://schema.org/InternetCafe"
-    },
-    "AboutPage": {
-      "@id": "https://schema.org/AboutPage"
-    },
-    "Article": {
-      "@id": "https://schema.org/Article"
-    },
-    "GeneralContractor": {
-      "@id": "https://schema.org/GeneralContractor"
     }
   }
 }
