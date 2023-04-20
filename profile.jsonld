@@ -81,6 +81,9 @@
     },
     "AcceptAction": {
       "@id": "https://schema.org/AcceptAction"
+    },
+    "AggregateOffer": {
+      "@id": "https://schema.org/AggregateOffer"
     }
   }
 }
