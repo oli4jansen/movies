@@ -78,6 +78,9 @@
     },
     "Book": {
       "@id": "https://schema.org/Book"
+    },
+    "City": {
+      "@id": "https://schema.org/City"
     }
   }
 }
