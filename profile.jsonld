@@ -78,6 +78,9 @@
     },
     "InternetCafe": {
       "@id": "https://schema.org/InternetCafe"
+    },
+    "AboutPage": {
+      "@id": "https://schema.org/AboutPage"
     }
   }
 }
