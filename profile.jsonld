@@ -84,6 +84,9 @@
     },
     "Article": {
       "@id": "https://schema.org/Article"
+    },
+    "GeneralContractor": {
+      "@id": "https://schema.org/GeneralContractor"
     }
   }
 }
