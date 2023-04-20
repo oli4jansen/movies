@@ -81,6 +81,9 @@
     },
     "AboutPage": {
       "@id": "https://schema.org/AboutPage"
+    },
+    "Article": {
+      "@id": "https://schema.org/Article"
     }
   }
 }
