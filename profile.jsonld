@@ -75,6 +75,9 @@
     },
     "Article": {
       "@id": "https://schema.org/Article"
+    },
+    "Book": {
+      "@id": "https://schema.org/Book"
     }
   }
 }
