@@ -78,6 +78,9 @@
     },
     "AboutPage": {
       "@id": "https://schema.org/AboutPage"
+    },
+    "AcceptAction": {
+      "@id": "https://schema.org/AcceptAction"
     }
   }
 }
