@@ -72,6 +72,9 @@
     "title": "https://schema.org/title",
     "name": {
       "@id": "https://schema.org/name"
+    },
+    "Article": {
+      "@id": "https://schema.org/Article"
     }
   }
 }
