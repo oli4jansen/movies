@@ -60,30 +60,9 @@
         }
       }
     },
-    "sdo:Movie": {
-      "@id": "https://schema.org/Movie",
-      "@context": {
-        "title": {
-          "@id": "sdo:title",
-          "@type": "@id"
-        }
-      }
-    },
     "title": "https://schema.org/title",
     "name": {
       "@id": "https://schema.org/name"
-    },
-    "Article": {
-      "@id": "https://schema.org/Article"
-    },
-    "Book": {
-      "@id": "https://schema.org/Book"
-    },
-    "City": {
-      "@id": "https://schema.org/City"
-    },
-    "Country": {
-      "@id": "https://schema.org/Country"
     }
   }
 }
