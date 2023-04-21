@@ -63,6 +63,9 @@
     "title": "https://schema.org/title",
     "name": {
       "@id": "https://schema.org/name"
+    },
+    "subClassOf": {
+      "@id": "http://www.w3.org/2000/01/rdf-schema#subClassOf"
     }
   }
 }
