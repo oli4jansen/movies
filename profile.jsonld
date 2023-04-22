@@ -50,11 +50,11 @@
     "Person": {
       "@id": "https://schema.org/Person",
       "@context": {
-        "sdo:givenName": {
+        "givenName": {
           "@id": "sdo:givenName",
           "@type": "@id"
         },
-        "sdo:familyName": {
+        "familyName": {
           "@id": "sdo:familyName",
           "@type": "@id"
         }
