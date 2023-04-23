@@ -32,10 +32,13 @@
       "@id": "https://schema.org/name"
     },
     "subClassOf": {
-      "@id": "rdfs:subClassOf"
+      "@id": "http://www.w3.org/2000/01/rdf-schema#subClassOf"
     },
     "Movie": {
       "@id": "https://schema.org/Movie"
+    },
+    "TireShop": {
+      "@id": "https://schema.org/TireShop"
     }
   }
 }
