@@ -20,10 +20,6 @@
         "givenName": {
           "@id": "sdo:givenName",
           "@type": "@id"
-        },
-        "familyName": {
-          "@id": "sdo:familyName",
-          "@type": "@id"
         }
       }
     },
