@@ -8,16 +8,8 @@
     "rdfs:Class": {
       "@id": "http://www.w3.org/2000/01/rdf-schema#Class",
       "@context": {
-        "rdfs:comment": {
+        "comment": {
           "@id": "rdfs:comment",
-          "@type": "@id"
-        },
-        "rdfs:label": {
-          "@id": "rdfs:label",
-          "@type": "@id"
-        },
-        "rdfs:subClassOf": {
-          "@id": "rdfs:subClassOf",
           "@type": "@id"
         }
       }
@@ -65,7 +57,7 @@
       "@id": "https://schema.org/name"
     },
     "subClassOf": {
-      "@id": "http://www.w3.org/2000/01/rdf-schema#subClassOf"
+      "@id": "rdfs:subClassOf"
     },
     "Movie": {
       "@id": "https://schema.org/Movie"
