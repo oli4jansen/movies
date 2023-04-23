@@ -14,31 +14,6 @@
         }
       }
     },
-    "rdf:Property": {
-      "@id": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "@context": {
-        "rdfs:comment": {
-          "@id": "rdfs:comment",
-          "@type": "@id"
-        },
-        "rdfs:label": {
-          "@id": "rdfs:label",
-          "@type": "@id"
-        },
-        "rdfs:range": {
-          "@id": "rdfs:range",
-          "@type": "@id"
-        },
-        "rdfs:domain": {
-          "@id": "rdfs:domain",
-          "@type": "@id"
-        },
-        "rdfs:subPropertyOf": {
-          "@id": "rdfs:subPropertyOf",
-          "@type": "@id"
-        }
-      }
-    },
     "Person": {
       "@id": "https://schema.org/Person",
       "@context": {
