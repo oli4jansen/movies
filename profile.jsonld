@@ -35,6 +35,9 @@
     },
     "Thing": {
       "@id": "https://schema.org/Thing"
+    },
+    "name": {
+      "@id": "https://schema.org/name"
     }
   }
 }
