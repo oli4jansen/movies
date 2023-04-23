@@ -8,6 +8,3 @@
 <https://spinque.com/data/wvaert> <https://schema.org/familyName> "Van Aert" .
 <https://spinque.com/data/nquintana> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
 <https://spinque.com/data/nquintana> <https://schema.org/familyName> "Quintana" .
-<https://spinque.com/data/> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
-<https://spinque.com/data/> <https://schema.org/givenName> "Olivier" .
-<https://spinque.com/data/> <https://schema.org/name> "Olivier Jansen" .
