@@ -38,6 +38,9 @@
     },
     "name": {
       "@id": "https://schema.org/name"
+    },
+    "Agent": {
+      "@id": "http://xmlns.com/foaf/0.1/Agent"
     }
   }
 }
