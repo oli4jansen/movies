@@ -7,12 +7,7 @@
     "my_own_schema": "https://my.own.schema/",
     "Person": {
       "@id": "https://schema.org/Person",
-      "@context": {
-        "givenName": {
-          "@id": "sdo:givenName",
-          "@type": "@id"
-        }
-      }
+      "@context": {}
     },
     "title": "https://schema.org/title",
     "subClassOf": {
