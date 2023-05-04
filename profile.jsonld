@@ -30,9 +30,6 @@
     "Movie": {
       "@id": "https://schema.org/Movie"
     },
-    "TireShop": {
-      "@id": "https://schema.org/TireShop"
-    },
     "Thing": {
       "@id": "https://schema.org/Thing"
     },
