@@ -30,6 +30,7 @@
     },
     "name": {
       "@id": "https://schema.org/name"
-    }
+    },
+    "@base": "https://olivier.nl/"
   }
 }
