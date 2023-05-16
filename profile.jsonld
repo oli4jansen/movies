@@ -16,10 +16,7 @@
           "@id": "sdo:familyName",
           "@type": "@id"
         },
-        "@base": "https://olivier.nl/",
-        "https://schema.org/parent": {
-          "@id": "https://schema.org/parent"
-        }
+        "@base": "https://olivier.nl/"
       }
     },
     "title": "https://schema.org/title",
