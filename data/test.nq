@@ -1,3 +1,4 @@
 <https://spinque.com/data/ofjansen> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
 <https://spinque.com/data/ofjansen> <https://schema.org/givenName> "Olivier" .
 <https://spinque.com/data/ofjansen> <https://schema.org/name> "OF Jnasne" .
+<https://spinque.com/data/ofjansen> <https://schema.org/parent> <https://olivier.nl/data/ofjansen> .
