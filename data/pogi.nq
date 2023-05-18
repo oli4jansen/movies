@@ -1,4 +1,5 @@
 <https://spinque.com/data/pogi> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
 <https://spinque.com/data/pogi> <https://schema.org/givenName> "Tadej" .
-<https://spinque.com/data/pogi> <https://schema.org/name> "Pogi" .
+<https://spinque.com/data/pogi> <https://schema.org/name> "Tadej Pogacar" .
 <https://spinque.com/data/pogi> <https://schema.org/parent> <https://olivier.nl/1> .
+<https://spinque.com/data/pogi> <https://schema.org/familyName> "Pogacar" .
