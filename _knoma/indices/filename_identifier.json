@@ -1,3 +1,5 @@
 {
-  "vingegaard.jsonld": "https://spinque.com/data/vingegaard"
+  "vingegaard.jsonld": [
+    "https://spinque.com/data/vingegaard"
+  ]
 }
