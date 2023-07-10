@@ -10,4 +10,10 @@ jobs:
    - name: checkout repo
      uses: actions/checkout@v2.3.4
    - name: knoma create indices
-     uses: oli4jansen/knoma-create-indices-github-action@v0.2
+     uses: oli4jansen/knoma-create-indices-github-action@v0.3
+   - name: commit to repo
+     run: |
+       git config --global user.name "knoma-indexer"
+       git config --global user.email "username@users.noreply.github.com"
+       git commit -a -m "Knoma automatically updated the indices"
+       git push
