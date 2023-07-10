@@ -8,9 +8,9 @@ jobs:
    runs-on: ubuntu-latest
    steps:
    - name: checkout repo
-     uses: actions/checkout@v2.3.4
+     uses: actions/checkout@v3.5.3
    - name: knoma create indices
-     uses: oli4jansen/knoma-create-indices-github-action@v0.3
+     uses: oli4jansen/knoma-create-indices-github-action@v0.4
    - name: commit to repo
      uses: EndBug/add-and-commit@v9
      with:
