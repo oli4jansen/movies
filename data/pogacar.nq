@@ -1,4 +1,0 @@
-<https://spinque.com/data/pogacar> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <https://schema.org/Person> .
-<https://spinque.com/data/pogacar> <https://schema.org/familyName> "Pogacar" .
-<https://spinque.com/data/pogacar> <https://schema.org/givenName> "Tadej" .
-<https://spinque.com/data/pogacar> <https://schema.org/name> "Tadej Pogacar" .
