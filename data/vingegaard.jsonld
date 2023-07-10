@@ -3,5 +3,14 @@
   "@type": [
     "https://schema.org/Person"
   ],
-  "givenName": "Jonas"
+  "https://schema.org/familyName": [
+    {
+      "@value": "Vingegaard"
+    }
+  ],
+  "https://schema.org/givenName": [
+    {
+      "@value": "Jonas"
+    }
+  ]
 }
