@@ -10,7 +10,7 @@ jobs:
    - name: checkout repo
      uses: actions/checkout@v3.5.3
    - name: knoma create indices
-     uses: oli4jansen/knoma-create-indices-github-action@v0.4
+     uses: oli4jansen/knoma-create-indices-github-action@v0.5
    - name: commit to repo
      uses: EndBug/add-and-commit@v9
      with:
