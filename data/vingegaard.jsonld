@@ -12,5 +12,10 @@
     {
       "@value": "Jonas"
     }
+  ],
+  "https://schema.org/name": [
+    {
+      "@value": "Jonas Vingegaard"
+    }
   ]
 }
